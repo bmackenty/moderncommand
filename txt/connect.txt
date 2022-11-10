@@ -1,0 +1,25 @@
+                                                     
+                                                     
+    __  ___          __                              
+   /  |/  /___  ____/ /__  _________                 
+  / /|_/ / __ \/ __  / _ \/ ___/ __ \                
+ / /  / / /_/ / /_/ /  __/ /  / / / /                
+/_/  /_/_____/\__,_/\___/_/  /_/ /_/               __
+  / ____/___  ____ ___  ____ ___  ____ _____  ____/ /
+ / /   / __ \/ __ `__ \/ __ `__ \/ __ `/ __ \/ __  / 
+/ /___/ /_/ / / / / / / / / / / / /_/ / / / / /_/ /  
+\____/\____/_/ /_/ /_/_/ /_/ /_/\__,_/_/ /_/\__,_/   
+                                                   
+
+------------------------------------------------------------------------
+Use create <name> <password> to create a character.
+Use connect <name> <password> to connect to your existing character.
+Use QUIT to logout.
+Use the WHO command to find out who is online currently.
+------------------------------------------------------------------------
+Modern Command is a text-based multiplayer game simulating running a 
+contemporary nation state. We are in alpha, but there is plenty to see.
+Last update: January 1 2022
+------------------------------------------------------------------------
+Please contact bmackenty@gmail.com with any questions 
+------------------------------------------------------------------------
